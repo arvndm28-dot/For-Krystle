@@ -49,7 +49,7 @@ yesBtn.addEventListener("click",(e)=>{
 
     yesScreen.classList.add("show");
 
-    setTimeout(()=> notifyWhatsApp("YES ❤️"), 1200);
+    setTimeout(()=> notifyWhatsApp("YES ❤️"), 5000);
 
 });
 
@@ -59,7 +59,7 @@ noBtn.addEventListener("click",(e)=>{
 
     noScreen.classList.add("show");
 
-    setTimeout(()=> notifyWhatsApp("No 🌙"), 1200);
+    setTimeout(()=> notifyWhatsApp("No 🌙"), 5000);
 
 });
 
