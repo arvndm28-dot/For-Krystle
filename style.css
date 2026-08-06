@@ -105,6 +105,8 @@ opacity:.6;
 
     transition:opacity .8s;
 
+    margin-top:-60px;
+
 }
 
 .container.hide{
@@ -307,7 +309,7 @@ opacity:.4;
 
 .open .letter{
 
-    transform:translateY(-120px);
+    transform:translateY(-160px);
 
     z-index:7;
 
